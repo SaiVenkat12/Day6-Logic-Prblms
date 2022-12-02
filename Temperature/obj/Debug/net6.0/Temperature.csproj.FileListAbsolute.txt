@@ -1,0 +1,15 @@
+C:\Users\venky\source\Upload2\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\Users\venky\source\Upload2\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\Users\venky\source\Upload2\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\Users\venky\source\Upload2\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\Users\venky\source\Upload2\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\refint\Temperature.dll
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
+C:\Users\venky\source\Upload2\Temperature\obj\Debug\net6.0\ref\Temperature.dll
