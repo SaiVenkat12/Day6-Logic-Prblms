@@ -1,0 +1,15 @@
+C:\Users\venky\source\Upload2\Primenum\bin\Debug\net6.0\Primenum.exe
+C:\Users\venky\source\Upload2\Primenum\bin\Debug\net6.0\Primenum.deps.json
+C:\Users\venky\source\Upload2\Primenum\bin\Debug\net6.0\Primenum.runtimeconfig.json
+C:\Users\venky\source\Upload2\Primenum\bin\Debug\net6.0\Primenum.dll
+C:\Users\venky\source\Upload2\Primenum\bin\Debug\net6.0\Primenum.pdb
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.csproj.AssemblyReference.cache
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.AssemblyInfoInputs.cache
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.AssemblyInfo.cs
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.dll
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\refint\Primenum.dll
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.pdb
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\Primenum.genruntimeconfig.cache
+C:\Users\venky\source\Upload2\Primenum\obj\Debug\net6.0\ref\Primenum.dll
