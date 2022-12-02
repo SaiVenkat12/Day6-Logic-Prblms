@@ -1,0 +1,15 @@
+C:\Users\venky\source\Upload2\Fibnonacci\bin\Debug\net6.0\Fibnonacci.exe
+C:\Users\venky\source\Upload2\Fibnonacci\bin\Debug\net6.0\Fibnonacci.deps.json
+C:\Users\venky\source\Upload2\Fibnonacci\bin\Debug\net6.0\Fibnonacci.runtimeconfig.json
+C:\Users\venky\source\Upload2\Fibnonacci\bin\Debug\net6.0\Fibnonacci.dll
+C:\Users\venky\source\Upload2\Fibnonacci\bin\Debug\net6.0\Fibnonacci.pdb
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.csproj.AssemblyReference.cache
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.AssemblyInfoInputs.cache
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.AssemblyInfo.cs
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.dll
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\refint\Fibnonacci.dll
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.pdb
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\Fibnonacci.genruntimeconfig.cache
+C:\Users\venky\source\Upload2\Fibnonacci\obj\Debug\net6.0\ref\Fibnonacci.dll
