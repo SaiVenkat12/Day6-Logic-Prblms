@@ -1,0 +1,15 @@
+C:\Users\venky\source\Upload2\Sqrt\bin\Debug\net6.0\Sqrt.exe
+C:\Users\venky\source\Upload2\Sqrt\bin\Debug\net6.0\Sqrt.deps.json
+C:\Users\venky\source\Upload2\Sqrt\bin\Debug\net6.0\Sqrt.runtimeconfig.json
+C:\Users\venky\source\Upload2\Sqrt\bin\Debug\net6.0\Sqrt.dll
+C:\Users\venky\source\Upload2\Sqrt\bin\Debug\net6.0\Sqrt.pdb
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.csproj.AssemblyReference.cache
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.AssemblyInfo.cs
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.dll
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\refint\Sqrt.dll
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.pdb
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\Sqrt.genruntimeconfig.cache
+C:\Users\venky\source\Upload2\Sqrt\obj\Debug\net6.0\ref\Sqrt.dll
