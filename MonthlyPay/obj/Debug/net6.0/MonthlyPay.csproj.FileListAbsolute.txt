@@ -1,0 +1,15 @@
+C:\Users\venky\source\Upload2\MonthlyPay\bin\Debug\net6.0\MonthlyPay.exe
+C:\Users\venky\source\Upload2\MonthlyPay\bin\Debug\net6.0\MonthlyPay.deps.json
+C:\Users\venky\source\Upload2\MonthlyPay\bin\Debug\net6.0\MonthlyPay.runtimeconfig.json
+C:\Users\venky\source\Upload2\MonthlyPay\bin\Debug\net6.0\MonthlyPay.dll
+C:\Users\venky\source\Upload2\MonthlyPay\bin\Debug\net6.0\MonthlyPay.pdb
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.csproj.AssemblyReference.cache
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.AssemblyInfoInputs.cache
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.AssemblyInfo.cs
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.dll
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\refint\MonthlyPay.dll
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.pdb
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\MonthlyPay.genruntimeconfig.cache
+C:\Users\venky\source\Upload2\MonthlyPay\obj\Debug\net6.0\ref\MonthlyPay.dll
